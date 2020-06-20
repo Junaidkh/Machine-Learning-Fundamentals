@@ -1,5 +1,5 @@
 # MACHINE LEARNING FUNDAMENTALS
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eventshigh.com%2Fdetail%2Fbangalore%2F3a10715f215bf00ae9325600648a4ced-machine-learning-foundation-online-training&psig=AOvVaw0M5B0H9h7yliCpRR5DMjW-&ust=1592739686487000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDD_s2nkOoCFQAAAAAdAAAAABAP"></img>
+<img src="https://lh3.googleusercontent.com/UsciyOlST5Jj6GkWty6GjRVNIiW5w7WYvGM4HtAiOFpGpfukDC7WUTNSlR-xZry8Q7TxIQ=s148"></img>
 ### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Machine%20Learning%20Foundation"> Machine Learning Foundation</a></strong>
   This whole section is done from the <strong><a href="https://www.coursera.org/learn/ml-foundations/home/welcome">University of Washington</a></strong>
   <ol>
@@ -44,5 +44,5 @@ Second : Datacamp <br>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Logistic%20Regression/Logistic-Regression-churn-py-v1.ipynb"> Working on Churn data using Logistic Regression </a></li>
 </ol>
 
-<bold>STAY TUNED MANY MORE MATERIAL IS COMING<br>
-(Star This Repository and follow me to get latest update 😊)</bold>
+<strong>STAY TUNED MANY MORE MATERIAL IS COMING<br>
+(Star This Repository and follow me to get latest update 😊)</strong>

@@ -1,5 +1,5 @@
 # MACHINE LEARNING FUNDAMENTALS
-
+<a href="https://www.google.com/url?sa=i&url=http%3A%2F%2Ftechsoftskills.in%2Fai-machine-learning%2Fmachine-learning-foundation%2F&psig=AOvVaw0M5B0H9h7yliCpRR5DMjW-&ust=1592739686487000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDD_s2nkOoCFQAAAAAdAAAAABAJ"></a>
 ### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Machine%20Learning%20Foundation"> Machine Learning Foundation</a></strong>
   This whole section is done from the <strong><a href="https://www.coursera.org/learn/ml-foundations/home/welcome">University of Washington</a></strong>
   <ol>
@@ -43,3 +43,6 @@ Second : Datacamp <br>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Logistic%20Regression/Hyperparameter%20tuning%20and%20Data%20preprocessing.pdf"> HyperParameter Tuning and Data Preprocessing</a></li>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Logistic%20Regression/Logistic-Regression-churn-py-v1.ipynb"> Working on Churn data using Logistic Regression </a></li>
 </ol>
+
+STAY TUNED MANY MORE MATERIAL IS COMING
+(Star This Repository and follow me to get latest update 😊)

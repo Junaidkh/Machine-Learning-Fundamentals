@@ -1,7 +1,7 @@
 # MACHINE LEARNING FUNDAMENTALS
 
 ### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Machine%20Learning%20Foundation"> Machine Learning Foundation</a></strong>
-  This whole section is done from the <strong><a href="https://www.coursera.org/learn/ml-foundations/home/welcome">University of Washington</strong>
+  This whole section is done from the <strong><a href="https://www.coursera.org/learn/ml-foundations/home/welcome">University of Washington</a></strong>
   <ol>
   	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Machine%20Learning%20Foundation/1%20intro.pdf">Introduction to Machine Learning </a></li>
     <li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Machine%20Learning%20Foundation/Getting%20started%20with%20Jupyter%20Notebook.ipynb">Getting Started with Jupyter Notebook </a></li>
@@ -34,7 +34,7 @@ Third  : University of Washington -> This course helps me in understanding the m
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/NoneLinearRegression-py-v1.ipynb">Non-Linear Regression Workbook</a></li>
 </ol>
 
-### <strong> <a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Logistic%20Regression"> Logistic Regression </strong>
+### <strong> <a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Logistic%20Regression"> Logistic Regression </a></strong>
 This section is covered from 2 different sources:
 First  : IBM <br>
 Second : Datacamp <br>

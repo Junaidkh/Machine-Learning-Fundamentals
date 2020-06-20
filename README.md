@@ -1,6 +1,6 @@
 # MACHINE LEARNING FUNDAMENTALS
 
-### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Machine%20Learning%20Foundation"> Machine Learning Foundation</strong>
+### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Machine%20Learning%20Foundation"> Machine Learning Foundation</a></strong>
   This whole section is done from the <strong><a href="https://www.coursera.org/learn/ml-foundations/home/welcome">University of Washington</strong>
   <ol>
   	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Machine%20Learning%20Foundation/1%20intro.pdf">Introduction to Machine Learning </a></li>
@@ -18,7 +18,7 @@ Second: Datacamp -> Datacamp helps me in implementing KNN Technique.
    <li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/K%20Nearest%20Neighbor/K-Nearest-neighbors-CustCat-py-v1.ipynb">Finding Customer Category using KNN </a></li>
 </ol>
 
-### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Linear%20Regression"> Linear Regression </strong>
+### <strong><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Linear%20Regression"> Linear Regression </a></strong>
 This section is covered from 3 different sources:
 First  : IBM<br>
 Second : Datacamp<br>

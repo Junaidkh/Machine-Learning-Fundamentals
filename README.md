@@ -25,7 +25,7 @@ Second : Datacamp<br>
 Third  : University of Washington -> This course helps me in understanding the mathematics behind the machine learnign algorithm>
 <ol>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Regression%20selfnotes%201.pdf"> Regression Notes</a></li>
-	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Datacamp%20Regression%20Notes.pdf"></a>Datacamp Regression Notes</li>
+	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Datacamp%20Regression%20Notes.pdf">Datacamp Regression Notes</a></li>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Simple%20Linear%20Regression%20with%20Gradient%20Descent%20Self%20notes.pdf"> Simple Linear Regression using Gradient Descent Notes</a></li>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Datacamp%20chapter3%20Fine%20Tuning%20Your%20Model%20Notes.pdf">How to Tune your model?</a></li>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Linear%20Regression/Simple-Linear-Regression-Co2-py-v1.ipynb"> Simple Linear Regression Workbook</a></li>

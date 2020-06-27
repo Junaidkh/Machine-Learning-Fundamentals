@@ -44,5 +44,12 @@ Second : Datacamp <br>
 	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Logistic%20Regression/Logistic-Regression-churn-py-v1.ipynb"> Working on Churn data using Logistic Regression </a></li>
 </ol>
 
+### <strong> <a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/tree/master/Decision%20Tree"> Decision Tree </a></strong>
+IBM <br>
+<ol>
+	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Decision%20Tree/Decision%20Tree.pdf"> Decision Tree Notes </a></li>
+	<li><a href="https://github.com/Junaidkh/Machine-Learning-Fundamentals/blob/master/Decision%20Tree/Decision-Trees-drug-py-v1.ipynb"> Decision Tree notebook</a></li>
+</ol>
+
 <strong>STAY TUNED MANY MORE MATERIAL IS COMING<br>
 (Star This Repository and follow me to get latest update 😊)</strong>
